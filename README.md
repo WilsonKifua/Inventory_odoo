@@ -1,4 +1,4 @@
-# Inventory_odoo [Odoo](https://www.odoo.com "Odoo's Official website")
+#  [Inventory_odoo](https://www.it.co.tz "Official website")
 Inventory Adjustment by Date Custom Module 
 
 This module contains all necessary functionality of inventory and can be adjusted by date
